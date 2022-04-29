@@ -4,3 +4,4 @@
 # Contributors #
 * Nicole Sylvester (@nicolesylvester)
 * Kylie Cook (@KylieNCook)
+* Bailey Rosato (@baileyrosato)
